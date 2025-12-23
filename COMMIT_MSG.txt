@@ -1,0 +1,16 @@
+feat: inicialização da organização Tech Fernandes LTDA
+
+Criação do repositório .github com estrutura inicial da organização.
+
+Componentes incluídos:
+- profile/README.md: apresentação pública da organização
+- README.md: documentação interna do repositório
+- .gitignore: configuração de arquivos ignorados
+
+Este commit marca o início oficial das operações técnicas da
+Tech Fernandes LTDA no GitHub, estabelecendo a base para todos
+os projetos e repositórios futuros.
+
+Versão: v0.1.0
+Data: 2025-12-22
+Responsável: @renanlocatizfernandes
