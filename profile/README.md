@@ -1,39 +1,38 @@
-# Tech Fernandes LTDA
+# TechFernandes
 
-Empresa brasileira especializada em engenharia de software, arquitetura de soluções cloud e desenvolvimento de sistemas corporativos.
+![Brazil](https://img.shields.io/badge/Brasil-Curitiba%2C%20PR-009c3b?style=flat-square)
+![Founded](https://img.shields.io/badge/Fundação-setembro%202024-blue?style=flat-square)
+![License](https://img.shields.io/badge/Licença-MIT-green?style=flat-square)
+
+> Infraestrutura cloud, automação e desenvolvimento de software.
 
 ## Sobre
 
-A Tech Fernandes LTDA atua no desenvolvimento de soluções tecnológicas robustas e escaláveis, com foco em:
+Empresa brasileira atuando em engenharia de software, infraestrutura em nuvem e automação de processos.
 
-- **Cloud Computing** - Arquitetura e implementação em Oracle Cloud Infrastructure (OCI), AWS e Azure
-- **Engenharia de Software** - Desenvolvimento de aplicações web, APIs e microsserviços
-- **DevOps e Automação** - CI/CD, infraestrutura como código e monitoramento
-- **Consultoria Técnica** - Análise de performance, otimização de custos e governança cloud
+- **Razão social**: R L FERNANDES LTDA
+- **CNPJ**: 57.285.516/0001-47
+- **Localização**: Curitiba, PR — Brasil
+- **Fundação**: setembro de 2024
 
-## GitHub como Fonte Oficial
+## Áreas de atuação
 
-Este GitHub é a **fonte oficial** de toda documentação técnica, código-fonte e decisões de engenharia da empresa.
+- Desenvolvimento de software sob demanda
+- Licenciamento de software customizado e não-customizado
+- Reparação e manutenção de computadores e equipamentos periféricos
+- Automação de processos e integração de sistemas
 
-O site institucional (<https://techfernandes.com.br>) consome e apresenta informações deste repositório, mas não é fonte de decisões técnicas.
+## Projetos públicos
 
-## Organização dos Repositórios
-
-Nossos repositórios estão organizados nas seguintes categorias:
-
-- **Produtos** - Aplicações e sistemas entregues a clientes
-- **APIs e Serviços** - Backends, microsserviços e integrações
-- **Ferramentas Internas** - Automações, scripts e utilitários
-- **Infraestrutura** - Infrastructure as Code, configurações DevOps
-- **Documentação** - Especificações técnicas, manuais e guias
-- **Provas de Conceito** - Experimentos, estudos e protótipos
+- [**apex-mcp**](https://github.com/TechFernandesLTDA/apex-mcp) — Servidor MCP para Oracle APEX
+- [**futeba-dos-parcas**](https://github.com/TechFernandesLTDA/futeba-dos-parcas) — App Android para organização de pelada entre amigos
+- [**BlockJam-Creator-Puzzle-Create**](https://github.com/TechFernandesLTDA/BlockJam-Creator-Puzzle-Create) — Criador de puzzles estilo block jam
 
 ## Contato
 
-**Email:** <renan.fernandes@outlook.com>  
-**Site:** <https://techfernandes.com.br>  
-**Localização:** Brasil
+- **Email**: techfernandesltda@gmail.com
+- **Site**: [techfernandes.com.br](https://techfernandes.com.br)
 
 ---
 
-*Comprometidos com excelência técnica e engenharia de qualidade.*
+© 2024-2026 R L FERNANDES LTDA. Todos os direitos reservados.
