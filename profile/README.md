@@ -33,11 +33,6 @@ Empresa brasileira de tecnologia especializada em infraestrutura em nuvem, autom
 - 🟢 **Desenvolvimento de soluções** — softwares e produtos digitais sob medida
 - ⬛ **Consultoria estratégica** — diagnóstico, planejamento e adoção de tecnologia
 
-## Projetos públicos
-
-- [**apex-mcp**](https://github.com/TechFernandesLTDA/apex-mcp) — Servidor MCP para Oracle APEX 24.2
-- [**BlockJam-Creator-Puzzle-Create**](https://github.com/TechFernandesLTDA/BlockJam-Creator-Puzzle-Create) — Criador de puzzles estilo Block Jam
-
 ## Contato
 
 - **E-mail**: [techfernandesltda@gmail.com](mailto:techfernandesltda@gmail.com)
