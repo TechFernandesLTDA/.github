@@ -22,6 +22,13 @@ Empresa brasileira atuando em engenharia de software, infraestrutura em nuvem e 
 - Reparação e manutenção de computadores e equipamentos periféricos
 - Automação de processos e integração de sistemas
 
+
+## Produtos e serviços
+
+A oferta de CRM e serviços associados reúne consultoria aplicada de inteligência artificial, implantação de atendimento e CRM, e operação/evolução dessas soluções. O **Tech Fernandes CRM** é um produto próprio, com núcleo comum e configuração/adaptadores para cada operação. Código-fonte e documentação operacional são mantidos em ambiente privado. Essa oferta complementa o catálogo institucional de tecnologia da empresa.
+
+A operação atualmente ativa do CRM é interna à Tech Fernandes. Não publicamos cases ou resultados de clientes desse produto sem contrato, autorização e evidência correspondentes. Projetos em demonstração ou negociação não são apresentados como clientes ou resultados.
+
 ## Projetos públicos
 
 - [**apex-mcp**](https://github.com/TechFernandesLTDA/apex-mcp) — Servidor MCP para Oracle APEX
